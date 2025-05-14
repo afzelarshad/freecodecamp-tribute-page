@@ -9,7 +9,6 @@ body {
     background-color: #fff;
 }
 #main {
-    width: 90vw;
     background-color: #eee;
     margin: 20px 10px;
     border-radius: 5px;
@@ -23,18 +22,18 @@ p{
     font-size: 1.2rem;
 }
 #img-div {
-    height: 670px;
+    margin: 0 auto;
     background-color: #fff;
-    width: 100%;
     font-size: 1.2rem;
     border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
 }
 #img-div #image {
-    margin: 0 10px 10px 10px;
+    margin: 0 auto;
 }
 #tribute-info  {
-    margin: 0 auto;
-    width: 600px;
+    margin: 5px auto;
     display: flex;
     flex-direction: column;
 
